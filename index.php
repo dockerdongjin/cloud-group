@@ -1,0 +1,4 @@
+<?php
+	echo "hanhyojeong";
+	phpinfo();
+?>
