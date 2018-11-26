@@ -1,0 +1,5 @@
+<? php
+
+echo "ddms.me";
+
+?>
