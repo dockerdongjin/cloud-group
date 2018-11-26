@@ -1,5 +1,5 @@
 <?php
-	echo "dongmin";
+	echo "hanyeol";
 	echo "SeungHee Park";
 	echo "Dongjin Oh";
 	phpinfo();
