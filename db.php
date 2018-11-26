@@ -7,7 +7,7 @@
 <table>
 <?php
 	$conn = mysqli_connect(
-	  'localhost',
+	  'db',
 	  'cloud',
 	  'password',
 	  'cloud');
